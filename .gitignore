@@ -1,0 +1,18 @@
+# Virtual Environment
+myenv_project/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS specific files
+.DS_Store
