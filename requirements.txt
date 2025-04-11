@@ -1,7 +1,0 @@
-numpy
-pandas
-matplotlib
-jupyter
-opencv-python
-deepface
-tqdm
